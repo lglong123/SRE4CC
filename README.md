@@ -1,14 +1,19 @@
 # 论文题目：一种面向自然语言需求的安全需求获取方法研究（Security Requirements Elicitation Method for Natural Language Requirements）
 
-#### 目前只存放了[安全需求模板](#SRT), 以下内容待定：  [原稿](#paper),  [实验](#experiments),  [源码](#source_code).    
+#### 本篇目前只写了[安全需求模板](#SRT), 以下其余内容待定：  [原稿](#paper),  [实验](#experiments),  [源码](#source_code).    
 
 目录：
-###[I. 安全需求模板](#SRT)
-###[II. 原稿](#paper)
-###[III. 实验](#experiments)
-###[IV. 源码](#source_code)
+### [I. 安全需求模板](#SRT)
+### [II. 原稿](#paper)
+### [III. 实验](#experiments)
+### [IV. 源码](#source_code)  
+  
+    
+    
 
 # <a id="SRT">I. Security Requirement Templates based on CC</a>
+
+The security requirements template file is here: [Security_requirements_CC_templates_2.0.pdf.pdf](https://github.com/lglong123/SRE4CC/blob/main/Security%20Requirement%20Templates/Security_requirements_CC_templates_2.0.pdf)  ，the contents of this file are as follows.
 
 We provide 36 Security Functionalities(SF), which can correspond to the Functional Family in the second part of the CC (Common Criteria) standard. Each SF has a brief introduction and one or a group of security requirements templates (based on Functional Elements of CC), which can support one or more security objectives respectively. The mapping relationship among SF, Functional Family and Security Objectives can be seen in [Appendix.1](#Appendix_1). Each security requirement template has its matching conditions and placeholders to be filled in.
 
