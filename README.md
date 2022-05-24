@@ -1,14 +1,14 @@
 # 论文题目：一种面向自然语言需求的安全需求获取方法研究（Security Requirements Elicitation Method for Natural Language Requirements）
 
-#### 目前只存放了：  
-[安全需求模板](#SRT)
+#### 目前只存放了[安全需求模板](#SRT), 以下内容待定：  [原稿](#paper),  [实验](#experiments),  [源码](#source_code).    
 
-#### 以下内容待定：  
-原稿  
-实验  
-源码  
+目录：
+###[I. 安全需求模板](#SRT)
+###[II. 原稿](#paper)
+###[III. 实验](#experiments)
+###[IV. 源码](#source_code)
 
-# I. <a id="SRT">Security Requirement Templates based on CC</a>
+# <a id="SRT">I. Security Requirement Templates based on CC</a>
 
 We provide 36 Security Functionalities(SF), which can correspond to the Functional Family in the second part of the CC (Common Criteria) standard. Each SF has a brief introduction and one or a group of security requirements templates (based on Functional Elements of CC), which can support one or more security objectives respectively. The mapping relationship among SF, Functional Family and Security Objectives can be seen in [Appendix.1](#Appendix_1). Each security requirement template has its matching conditions and placeholders to be filled in.
 
@@ -603,7 +603,9 @@ We provide 36 Security Functionalities(SF), which can correspond to the Function
 	Security requirement: 
 		The SF shall provide a communication path between itself and [selection: <remote>, <local>] users that is logically distinct from other communication paths and provides assured identification of its end points and protection of the communicated data from [selection: <modification>, <disclosure>, <confidentiality violation>]].
 
-
+  
+    
+    
 # <a id="Appendix_1">Appendix.1</a>
 
 |Functional Family|SF|Identification & Authentication|Integrity|Availability|Privacy|Accountability|Confidentiality|
@@ -645,3 +647,9 @@ We provide 36 Security Functionalities(SF), which can correspond to the Function
 |FTP_ITC|SF.35||D||||D|
 |FTP_TRP|SF.36||D||||D|
 
+
+  
+    
+# <a id="paper">II. 原稿</a>
+# <a id="experiments">III. 实验</a>
+# <a id="source_code">IV. 源码</a>
