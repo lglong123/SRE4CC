@@ -3,7 +3,7 @@
 
 # Security Requirement Templates based on CC
 
-We provide 36 Security Functionalities(SF), which can correspond to the Functional Family in the second part of the CC (Common Criteria) standard. Each SF has a brief introduction and one or a group of security requirements templates (based on Functional Elements of CC), which can support one or more security objectives respectively. The mapping relationship among SF, Functional Family and Security Objectives can be seen in Appendix I. Each security requirement template has its matching conditions and placeholders to be filled in.
+We provide 36 Security Functionalities(SF), which can correspond to the Functional Family in the second part of the CC (Common Criteria) standard. Each SF has a brief introduction and one or a group of security requirements templates (based on Functional Elements of CC), which can support one or more security objectives respectively. The mapping relationship among SF, Functional Family and Security Objectives can be seen in [Appendix.1](#Appendix_1). Each security requirement template has its matching conditions and placeholders to be filled in.
 
 ## SF.1 Security audit data generation 
 
@@ -597,7 +597,7 @@ We provide 36 Security Functionalities(SF), which can correspond to the Function
 		The SF shall provide a communication path between itself and [selection: <remote>, <local>] users that is logically distinct from other communication paths and provides assured identification of its end points and protection of the communicated data from [selection: <modification>, <disclosure>, <confidentiality violation>]].
 
 
-# Appendix I
+# <a id="Appendix_1">Appendix.1</a>
 
 |Functional Family|SF|Identification & Authentication|Integrity|Availability|Privacy|Accountability|Confidentiality|
 |-----------------|--|-------------------------------|---------|------------|-------|--------------|---------------|
