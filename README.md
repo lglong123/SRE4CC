@@ -13,7 +13,7 @@
 
 # <a id="SRT">I. Security Requirement Templates based on CC</a>
 
-***The security requirement template file is here: [Security_requirements_CC_templates_2.0.pdf.pdf](https://github.com/lglong123/SRE4CC/blob/main/Security%20Requirement%20Templates/Security_requirements_CC_templates_2.0.pdf)  ，the contents of this file are as follows.***
+***The security requirement template file is here: [Security_requirements_CC_templates_2.0.pdf](https://github.com/lglong123/SRE4CC/blob/main/Security%20Requirement%20Templates/Security_requirements_CC_templates_2.0.pdf)  ，the contents of this file are as follows.***
 
 We provide 36 Security Functionalities(SF), which can correspond to the Functional Family in the second part of the CC (Common Criteria) standard. Each SF has a brief introduction and one or a group of security requirements templates (based on Functional Elements of CC), which can support one or more security objectives respectively. The mapping relationship among SF, Functional Family and Security Objectives can be seen in [Appendix.1](#Appendix_1). Each security requirement template has its matching conditions and placeholders to be filled in.
 
